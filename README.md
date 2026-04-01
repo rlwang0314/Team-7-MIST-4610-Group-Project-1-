@@ -44,6 +44,27 @@ The Players table represents each individual player participating in the tournam
 
 ## Data Dictionary 
 
+<img width="725" height="731" alt="image" src="https://github.com/user-attachments/assets/f958a3ed-cb2a-40d3-83c6-175b004d2db4" />
+
+<img width="743" height="667" alt="image" src="https://github.com/user-attachments/assets/bd3b59da-efc4-458a-ae79-cb15e03cdfba" />
+
+<img width="741" height="496" alt="image" src="https://github.com/user-attachments/assets/1ba46ddd-75ef-4192-805b-e5e3247f2509" />
+
+<img width="755" height="564" alt="image" src="https://github.com/user-attachments/assets/5b9ce7d0-8ec1-4109-a2d4-e3ab7c081586" />
+
+<img width="757" height="639" alt="image" src="https://github.com/user-attachments/assets/8f54dde2-925d-4511-9066-07c8abf653fd" />
+
+<img width="729" height="551" alt="image" src="https://github.com/user-attachments/assets/19b30c85-7364-4c8e-9611-0f4eb0a0a71f" />
+
+<img width="735" height="455" alt="image" src="https://github.com/user-attachments/assets/aef141c1-36f3-4742-b88f-78fb27ce9c06" />
+
+<img width="739" height="260" alt="image" src="https://github.com/user-attachments/assets/71c7a445-201d-4e0c-b73d-d86baf6b34f1" />
+
+<img width="752" height="493" alt="image" src="https://github.com/user-attachments/assets/1f68342a-15e8-4159-a99a-c7de53fc9794" />
+
+
+
+
 
 ## Queries 
 
