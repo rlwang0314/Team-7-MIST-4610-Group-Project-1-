@@ -15,9 +15,11 @@ Sp26_71552_Group 7
 ## Data Model 
 Explanation of data model: 
 
+<img width="915" height="759" alt="image" src="https://github.com/user-attachments/assets/dce0a080-a2e1-4103-b49d-1195d36365c4" />
 
 
 ## Data Dictionary 
+
 
 ## Queries 
 
