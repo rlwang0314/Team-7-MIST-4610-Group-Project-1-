@@ -8,7 +8,7 @@ Sp26_71552_Group 7
 2. Sara Gebreyohannes
 3. Rajan Malik
 4. Landon Tabor
-5. Reina Wang [@rlwang0314]([url](https://github.com/rlwang0314))
+5. Reina Wang [@rlwang0314](https://github.com/rlwang0314)
 
 ## Problem Description
 
