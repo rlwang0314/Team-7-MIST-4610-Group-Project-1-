@@ -4,13 +4,16 @@
 Sp26_71552_Group 7
 
 ## Team Members:
-1. Nandini Chinthapanti
+1. Nandini Chinthapanti 
 2. Sara Gebreyohannes [@saragebree](https://github.com/saragebree)
 3. Rajan Malik
 4. Landon Tabor
 5. Reina Wang [@rlwang0314](https://github.com/rlwang0314)
 
 ## Problem Description
+
+Our team's task is to model and build a relational database that organizes the E-Sports Tournament Events. The central entity throughout our database is the Tournaments entity which represents the individual E-Sport tournaments in the database. The tournament is operated in correlation to multiple components such as teams, sponsors, games, prize_pools, and matches. Every tournament hosts multiple teams which play matches of E-Sports games organized into different rounds. These tournaments are also supported financially by different sponsors and have multiple prize pools which define the rewards that the teams receive based on their placings. Overall, the structure of the project allows individuals to understand how the tournaments are structured while connected to the variety of other operational entities in the database.
+
 
 ## Data Model 
 Explanation of data model: 
