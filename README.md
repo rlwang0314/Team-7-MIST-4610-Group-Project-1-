@@ -65,8 +65,9 @@ The Players table represents each individual player participating in the tournam
 
 <img width="752" height="493" alt="image" src="https://github.com/user-attachments/assets/1f68342a-15e8-4159-a99a-c7de53fc9794" />
 
+<img width="1015" height="412" alt="image" src="https://github.com/user-attachments/assets/d46a49e4-64f1-4735-9256-8de2350f2b25" />
 
-
+<img width="1025" height="400" alt="image" src="https://github.com/user-attachments/assets/3f8952ce-8391-4a49-8c45-3edd5cde87ba" />
 
 
 ## Queries 
