@@ -4,7 +4,7 @@
 Sp26_71552_Group 7
 
 ## Team Members:
-1. Nandini Chinthapanti 
+1. Nandini Chinthapanti [@nandinichr](https://github.com/nandinichr)
 2. Sara Gebreyohannes [@saragebree](https://github.com/saragebree)
 3. Rajan Malik
 4. Landon Tabor
