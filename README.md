@@ -139,5 +139,5 @@ Query 10 helps management identify high-value tournaments based on prize pool si
 ## Database Information
 Name of the database: ns_Sp26_71552_Group7
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
