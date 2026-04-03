@@ -71,7 +71,7 @@ The Players table represents each individual player participating in the tournam
 
 
 ## Queries 
-
+<img width="879" height="761" alt="image" src="https://github.com/user-attachments/assets/90b65fe3-8f2f-4920-b46a-23950a17c3fb" />
 
 
 1. Query 1 shows all the teams from North America.
