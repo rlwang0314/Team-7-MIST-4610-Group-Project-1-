@@ -135,3 +135,9 @@ Natural language question: Which tournaments have a total price pool that is gre
 
 <img width="600" height="728" alt="image" src="https://github.com/user-attachments/assets/86a56cdf-e043-4c70-9507-558da57a202a" />
 Query 10 helps management identify high-value tournaments based on prize pool size relative to the overall average. This is important to strategic decision-making because it highlights tournaments that exceed average prize funding, indicating premium events. Management can use this information to determine which tournaments should be allocated more marketing, production quality, and operational resources. The average prize pool gives a benchmark to evaluate whether tournaments are underperforming or exceeding expectations. Higher prize pool tournaments are also more attractive to sponsors, making them ideal for premium sponsorship deals.
+
+## Database Information
+Name of the database: ns_Sp26_71552_Group7
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
+
