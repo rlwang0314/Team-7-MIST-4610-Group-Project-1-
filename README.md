@@ -78,7 +78,7 @@ The Players table represents each individual player participating in the tournam
 
 Natural language question: Which teams are located in the North America region?
 
-<img width="722" height="698" alt="image" src="https://github.com/user-attachments/assets/872f8ca2-86b2-43e8-800a-b2fc972de2d5" />
+<img width="1080" height="574" alt="image" src="https://github.com/user-attachments/assets/9333609d-4411-48a3-a1c2-fd487d202b11" />
 
 Query 1 helps management identify all teams operating in North America. This can help management evaluate how well North American teams perform compared to teams from other regions. Knowing which teams are in North America also allows for region-specific sponsorship deals and advertising campaigns. 
 
