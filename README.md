@@ -88,8 +88,7 @@ Natural language question: “Which players are registered and what is their cur
 
 <img width="1080" height="574" alt="image" src="https://github.com/user-attachments/assets/9333609d-4411-48a3-a1c2-fd487d202b11" />
 
-Query 1 — This query allows the tournament management system to view all registered players alongside their current registration status. This information can be used to quickly identify who is actively participating, pending approval, or inactive across all tournaments.
-
+Query 1 — This query allows the tournament management system to view all registered players alongside their current registration status. It retrieves a list of every player along with their registration status by joining together the Players and Registration table using the player_id. It merges the players personal information along with their registration records in which, if a player has more than one registration such as “Pending” or “Inactive”, it appears multiple times on the system. This information can be used to quickly identify who is actively participating, pending approval, or inactive across all tournaments. 
 
 
 
@@ -98,7 +97,7 @@ Natural language question: “Which teams have a sponsor and how much is their s
 
 <img width="540" height="378" alt="Screenshot 2026-04-03 at 10 38 45 PM" src="https://github.com/user-attachments/assets/a41e5ad5-3c9f-4b6e-954f-6219556dcd64" />
 
-Query 2 — This query allows the tournament management system to identify which teams have sponsorships and how much each sponsorship is worth. This information can be used to recognize high-value sponsorship relationships and prioritize partnerships that bring the most financial support to teams.
+Query 2 — This query allows the tournament management system to identify which teams have sponsorships and how much each sponsorship is worth. It retrieves information on the teams region, sponsor name, and sponsorship by joining the Teams and Sponsor table using sponsor_id. It includes teams that have matching sponsors and is organized in descending order by the sponsorship_amount. This information can be used to recognize high-value sponsorship relationships and prioritize partnerships that bring the most financial support to teams.
 
 
 
@@ -108,7 +107,7 @@ Natural Language Question: “What tournaments are upcoming and when and where a
 
 <img width="540" height="378" alt="Screenshot 2026-04-03 at 10 40 26 PM" src="https://github.com/user-attachments/assets/6e17c445-ce1d-491b-b971-f7a0939ce7af" />
 
-Query 3 — This query allows the tournament management system to view all upcoming tournaments along with their scheduled dates and locations. This information can be used to plan logistics, inform teams and players of upcoming events, and ensure all necessary preparations are made ahead of time.
+Query 3 — This query allows the tournament management system to view all upcoming tournaments along with their scheduled dates and locations. It retrieves all the tournaments that are marked as “Upcoming” by filtering tournaments based on its status. The results are sorted by the start date in which the earliest events appear in the beginning. This information can be used to plan logistics, inform teams and players of upcoming events, and ensure all necessary preparations are made ahead of time.
 
 
 
@@ -119,8 +118,7 @@ Natural language question: “Which prize pool placements have a payout greater 
 
 <img width="540" height="378" alt="Screenshot 2026-04-03 at 10 41 21 PM" src="https://github.com/user-attachments/assets/6d6d521c-4a67-4651-87e5-1f22fc368477" />
 
-Query 4 — This query allows the tournament management system to identify which prize pool placements offer payouts greater than 50000. This information can be used to highlight high-value rewards to attract competitive teams and players to participate in tournaments.
-
+Query 4 — This query allows the tournament management system to identify which prize pool placements offer payouts greater than 50000. This is done by filtering through the Prize_pools table and using the amount column. It shows the placement, amount, currency, and payout_status while sorting the results in descending order in which the highest amounts are displayed at the beginning. This information can be used to highlight high-value rewards to attract competitive teams and players to participate in tournaments.
 
 
 
@@ -130,8 +128,7 @@ Natural language question: “Who was the highest scoring player in each tournam
 
 <img width="540" height="282" alt="Screenshot 2026-04-03 at 10 42 10 PM" src="https://github.com/user-attachments/assets/f9d04b40-f294-409f-a08c-83821a43514a" />
 
-Query 5 — This query allows the tournament management system to identify the highest scoring player in each tournament. This information can be used to recognize standout performers, create MVP awards, and promote top players to grow the tournament's audience and reputation.
-
+Query 5 — This query allows the tournament management system to identify the highest scoring player in each tournament. The players, scores, and tournament information is connected by joining the Players, Player_Stats, Matches, and Tournaments tables. In addition, a subquery is used in order to find the maximum score in each tournament and filters the results to include players whose score match the maximum. This information can be used to recognize standout performers, create MVP awards, and promote top players to grow the tournament's audience and reputation.
 
 
 
