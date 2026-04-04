@@ -82,7 +82,7 @@ The Players table represents each individual player participating in the tournam
 
 
 
-1. Query 1
+
 
 Natural language question: “Which players are registered and what is their current registration status?”
 
