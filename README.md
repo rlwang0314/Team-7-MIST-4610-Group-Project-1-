@@ -79,7 +79,7 @@ The Players table represents each individual player participating in the tournam
 
 ## Queries 
 
-<img width="524" height="463" alt="Screenshot 2026-04-03 at 10 54 55 PM" src="https://github.com/user-attachments/assets/8105fc88-243a-475f-84de-411b539fc74b" />
+<img width="523" height="480" alt="Screenshot 2026-04-03 at 11 32 20 PM" src="https://github.com/user-attachments/assets/7bc3ea2c-ed46-4e21-a427-f143ff310fc4" />
 
 
 
