@@ -42,7 +42,10 @@ Because matches involve multiple teams and teams can play in multiple matches, t
 
 The Players table represents each individual player participating in the tournaments, including details like gamer tag, name, nationality, and role. Players can participate in multiple matches and matches must involve multiple players. This results in a many-to-many relationship between Players and Matches with Player_Stats as the associative table.
 
+The Registration table ensures that players can only be registered for one team during an active tournament, creating the one-to-many relationship between Players and Registration. Each registration can only have one team enrollment, hence why Team_Enrollments has a one-to-many relationship with Registration. 
+
 The Team_Enrollment table displays the relationship between the teams and tournaments. Because a team is able to participate in many tournaments and each of the tournaments include multiple teams, it creates a many-to-many relationship between the entities. It is an associative table which connects a specific team to specific tournaments through their IDs.
+
 
 <img width="1097" height="766" alt="Screenshot 2026-04-03 at 11 24 01 PM" src="https://github.com/user-attachments/assets/901cd361-62d0-4603-98c2-e2a3dd77b146" />
 
