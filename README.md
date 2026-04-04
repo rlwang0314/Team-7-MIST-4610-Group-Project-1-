@@ -139,10 +139,7 @@ Natural language question: “Which tournaments have more than 5 players registe
 
 <img width="540" height="354" alt="Screenshot 2026-04-03 at 10 43 04 PM" src="https://github.com/user-attachments/assets/96eec58f-38b2-45e2-bbb9-0f15d0329456" />
 
-Query 6 — This query allows the tournament management system to determine which tournaments have the most players enrolled. This information can be used to assess tournament popularity, allocate resources appropriately, and identify which tournaments may need additional support or infrastructure.
-
-
-
+Query 6 — This query allows the tournament management system to determine which tournaments have the most players enrolled. This information can be used to assess tournament popularity, allocate resources appropriately, and identify which tournaments may need additional support or infrastructure. High-participation tournaments require more resources such as more staff and larger venues. They can also be prioritized for marketing campaigns and sponsorships due to the amount of audience engagement. Comparing participation can also help identify underperforming events. Management can investigate and determine where the issues come from and find solutions to support them. 
 
 
 
@@ -150,8 +147,7 @@ Natural language question: “Which matches were won by a team whose sponsor con
 
 <img width="540" height="354" alt="Screenshot 2026-04-03 at 10 44 06 PM" src="https://github.com/user-attachments/assets/ee99156a-7987-4909-80d4-1c29b76f841f" />
 
-Query 7 — This query allows the tournament management system to identify matches that were won by teams whose sponsors contribute above the average sponsorship amount. This information can be used to analyze whether higher sponsored teams tend to perform better, which could inform future sponsorship strategies and investment decisions.
-
+Query 7 — This query allows the tournament management system to identify matches that were won by teams whose sponsors contribute above the average sponsorship amount. This information can be used to analyze whether higher sponsored teams tend to perform better, which could inform future sponsorship strategies and investment decisions. If higher-funded teams consistently outperform others, it indicates that increased finances used to pay for coaching or equipment results in more success. This can influence how sponsors allocate funds and which teams they choose to support. 
 
 
 
@@ -161,9 +157,7 @@ Natural language question: “Which sponsors are funding more than 3 tournaments
 
 <img width="540" height="324" alt="Screenshot 2026-04-03 at 10 44 52 PM" src="https://github.com/user-attachments/assets/0f9ea0a9-9e3e-402e-a6b6-e1ecad6245b1" />
 
-Query 8 — This query allows the tournament management system to identify which sponsors are funding multiple tournaments and contributing above the average total contribution across all sponsors. This information can be used to recognize the most committed sponsors and prioritize maintaining those relationships through exclusive benefits or partnership opportunities.
-
-
+Query 8 — This query allows the tournament management system to identify which sponsors are funding multiple tournaments and contributing above the average total contribution across all sponsors. This information can be used to recognize the most committed sponsors and prioritize maintaining those relationships through exclusive benefits or partnership opportunities. It can also be used to plan for long-term finances. Sponsors with consistent above-average contributions can be considered essential partners for future tournaments, which reduces financial uncertainty. It helps managers determine sponsorship risk as well. If too much funding depends on a small number of sponsors, diversification may be needed to ensure there is enough funding for all tournaments. 
 
 
 
@@ -172,9 +166,7 @@ Natural language question: “Which players have scored above the overall averag
 
 <img width="540" height="166" alt="Screenshot 2026-04-03 at 10 45 34 PM" src="https://github.com/user-attachments/assets/8c35abb3-fdaa-49db-8ed8-53b3e1c69cb5" />
 
-Query 9 — This query allows the tournament management system to identify players who have consistently performed above the overall average score in every match they have played. This information can be used to recognize elite players, create performance-based rankings, and identify candidates for invitational or high-tier tournaments.
-
-
+Query 9 — This query allows the tournament management system to identify players who have consistently performed above the overall average score in every match they have played. This information can be used to recognize elite players, create performance-based rankings, and identify candidates for invitational or high-tier tournaments. Management can use this for talent identification and player evaluation. Players who consistently outperform make them strong candidates for sponsorship deals or more exclusive tournaments. These players can also be featured in promotions and marketing campaigns to create more audience engagement and viewership. 
 
 
 
