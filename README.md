@@ -47,27 +47,33 @@ The Players table represents each individual player participating in the tournam
 
 ## Data Dictionary 
 
-<img width="725" height="731" alt="image" src="https://github.com/user-attachments/assets/f958a3ed-cb2a-40d3-83c6-175b004d2db4" />
+<img width="530" height="528" alt="Screenshot 2026-04-03 at 10 48 23 PM" src="https://github.com/user-attachments/assets/f2c7b898-ad95-45d4-a3e4-ecd6d9243684" />
 
-<img width="743" height="667" alt="image" src="https://github.com/user-attachments/assets/bd3b59da-efc4-458a-ae79-cb15e03cdfba" />
+<img width="530" height="488" alt="Screenshot 2026-04-03 at 10 48 37 PM" src="https://github.com/user-attachments/assets/4e17a2be-1bd5-4087-af9b-9ba0bfad055d" />
 
-<img width="741" height="496" alt="image" src="https://github.com/user-attachments/assets/1ba46ddd-75ef-4192-805b-e5e3247f2509" />
+<img width="530" height="340" alt="Screenshot 2026-04-03 at 10 48 57 PM" src="https://github.com/user-attachments/assets/79936937-6afe-40e7-8319-41d29dc408f3" />
 
-<img width="755" height="564" alt="image" src="https://github.com/user-attachments/assets/5b9ce7d0-8ec1-4109-a2d4-e3ab7c081586" />
+<img width="530" height="390" alt="Screenshot 2026-04-03 at 10 49 13 PM" src="https://github.com/user-attachments/assets/06443c79-abda-401f-85f8-6895609c0b8d" />
 
-<img width="757" height="639" alt="image" src="https://github.com/user-attachments/assets/8f54dde2-925d-4511-9066-07c8abf653fd" />
+<img width="524" height="448" alt="Screenshot 2026-04-03 at 10 49 30 PM" src="https://github.com/user-attachments/assets/8f11124f-ca74-4bba-9a3f-1b8e9d231f23" />
 
-<img width="729" height="551" alt="image" src="https://github.com/user-attachments/assets/19b30c85-7364-4c8e-9611-0f4eb0a0a71f" />
+<img width="524" height="393" alt="Screenshot 2026-04-03 at 10 49 46 PM" src="https://github.com/user-attachments/assets/01be4556-00a7-4621-a224-862056d54cbf" />
 
-<img width="735" height="455" alt="image" src="https://github.com/user-attachments/assets/aef141c1-36f3-4742-b88f-78fb27ce9c06" />
+<img width="524" height="326" alt="Screenshot 2026-04-03 at 10 49 59 PM" src="https://github.com/user-attachments/assets/846c2ae3-4f3b-4429-9782-2092f34fecd0" />
 
-<img width="739" height="260" alt="image" src="https://github.com/user-attachments/assets/71c7a445-201d-4e0c-b73d-d86baf6b34f1" />
+<img width="524" height="185" alt="Screenshot 2026-04-03 at 10 50 14 PM" src="https://github.com/user-attachments/assets/d5b3307c-1ac8-41fc-8379-37eac23fa940" />
 
-<img width="752" height="493" alt="image" src="https://github.com/user-attachments/assets/1f68342a-15e8-4159-a99a-c7de53fc9794" />
+<img width="524" height="343" alt="Screenshot 2026-04-03 at 10 50 28 PM" src="https://github.com/user-attachments/assets/7330fee8-70d2-408d-8b71-970e3250da5d" />
 
-<img width="1015" height="412" alt="image" src="https://github.com/user-attachments/assets/d46a49e4-64f1-4735-9256-8de2350f2b25" />
+<img width="524" height="213" alt="Screenshot 2026-04-03 at 10 50 42 PM" src="https://github.com/user-attachments/assets/a5f90702-15bc-4357-adab-7f0becfc0498" />
 
-<img width="1025" height="400" alt="image" src="https://github.com/user-attachments/assets/3f8952ce-8391-4a49-8c45-3edd5cde87ba" />
+<img width="524" height="320" alt="Screenshot 2026-04-03 at 10 50 57 PM" src="https://github.com/user-attachments/assets/1f802e53-995e-41f8-a7ca-7f3b3a7ffe1c" />
+
+<img width="524" height="428" alt="Screenshot 2026-04-03 at 10 51 11 PM" src="https://github.com/user-attachments/assets/1aa85c39-4752-416a-ad6f-f929652931c3" />
+
+<img width="524" height="297" alt="Screenshot 2026-04-03 at 10 51 26 PM" src="https://github.com/user-attachments/assets/9a21cf27-0ac4-47cc-85e6-cfa5642302b8" />
+
+<img width="524" height="443" alt="Screenshot 2026-04-03 at 10 51 46 PM" src="https://github.com/user-attachments/assets/6e022da8-a257-4bf6-a974-1e89dbe25bdb" />
 
 
 ## Queries 
