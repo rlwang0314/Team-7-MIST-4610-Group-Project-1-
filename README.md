@@ -74,94 +74,111 @@ The Players table represents each individual player participating in the tournam
 <img width="879" height="761" alt="image" src="https://github.com/user-attachments/assets/90b65fe3-8f2f-4920-b46a-23950a17c3fb" />
 
 
-1. Query 1 shows all the teams from North America.
+1. Query 1
 
-Natural language question: Which teams are located in the North America region?
+Natural language question: “Which players are registered and what is their current registration status?”
 
 <img width="1080" height="574" alt="image" src="https://github.com/user-attachments/assets/9333609d-4411-48a3-a1c2-fd487d202b11" />
 
-Query 1 helps management identify all teams operating in North America. This can help management evaluate how well North American teams perform compared to teams from other regions. Knowing which teams are in North America also allows for region-specific sponsorship deals and advertising campaigns. 
+Query 1 — This query allows the tournament management system to view all registered players alongside their current registration status. This information can be used to quickly identify who is actively participating, pending approval, or inactive across all tournaments.
+
 
 
 2. Query 2 shows sponsor names, the tournament they sponsor, and the donation amount for deals greater than $50,000.
 
-Natural language question: Which sponsors contribute more than $50,000, and which tournaments are they sponsoring? 
+Natural language question: “Which teams have a sponsor and how much is their sponsorship worth?”
 
-<img width="685" height="697" alt="image" src="https://github.com/user-attachments/assets/a83f5c95-238c-4a87-ac79-618e0a0ae8de" />
+<img width="540" height="378" alt="Screenshot 2026-04-03 at 10 38 45 PM" src="https://github.com/user-attachments/assets/a41e5ad5-3c9f-4b6e-954f-6219556dcd64" />
 
-Query 2 identifies sponsors who contribute high values and the tournaments they support. Management can use this information to determine which tournaments get major funding and which sponsor relationships to prioritize. Tournaments with higher sponsorships may also justify greater resources allocated to it, such as increased marketing and production quality.  
+Query 2 — This query allows the tournament management system to identify which teams have sponsorships and how much each sponsorship is worth. This information can be used to recognize high-value sponsorship relationships and prioritize partnerships that bring the most financial support to teams.
+
 
 
 3. Query 3 shows all teams competing in NBA 2K Invitational.
 
-Natural Language Question: Which teams are participating in the “NBA 2K Invitational” and what regions do they represent? 
+Natural Language Question: “What tournaments are upcoming and when and where are they being held?”
 
-<img width="567" height="572" alt="image" src="https://github.com/user-attachments/assets/f66ab627-bb2b-4c0c-91bd-e343a3c49366" />
+<img width="540" height="378" alt="Screenshot 2026-04-03 at 10 40 26 PM" src="https://github.com/user-attachments/assets/6e17c445-ce1d-491b-b971-f7a0939ce7af" />
 
-Query 3 helps management identify the teams entered in a specific tournament and understand which region they are from. This can support regional marketing and tournament planning, showing whether a specific tournament has global appeal or if engagement is concentrated in a single region. This information would help match tournaments with sponsorshisp that target specific regions as well. 
+Query 3 — This query allows the tournament management system to view all upcoming tournaments along with their scheduled dates and locations. This information can be used to plan logistics, inform teams and players of upcoming events, and ensure all necessary preparations are made ahead of time.
+
+
 
 
 4. Query 4 gives an overview of all matches in a tournament. 
 
-Natural language question: What are the names, dates, locations, and statuses of all matches? 
+Natural language question: “Which prize pool placements have a payout greater than 50000?”
 
-<img width="662" height="655" alt="image" src="https://github.com/user-attachments/assets/dfee1a01-466b-4549-b3eb-069139f591c5" />
+<img width="540" height="378" alt="Screenshot 2026-04-03 at 10 41 21 PM" src="https://github.com/user-attachments/assets/6d6d521c-4a67-4651-87e5-1f22fc368477" />
 
-Query 4 provides information on all matches and their scheduling information, allowing managers to monitor tournament operations. Management can ensure that no match times overlap and create conflict that could disrupt the tournament. By reviewing match statuses, managers can track progress of each match as well and identify if there have been any delays or setbacks. Knowing the match schedules also helps allocate technical staff, streaming teams, and other operational resources. 
+Query 4 — This query allows the tournament management system to identify which prize pool placements offer payouts greater than 50000. This information can be used to highlight high-value rewards to attract competitive teams and players to participate in tournaments.
+
+
 
 
 5. Query 5 finds tournaments with more than three teams.
    
-Natural language question: Which tournaments with more than three teams?
+Natural language question: “Who was the highest scoring player in each tournament?”
 
-<img width="617" height="634" alt="image" src="https://github.com/user-attachments/assets/608990f7-c45d-4de6-a6fa-86f827f3828c" />
+<img width="540" height="282" alt="Screenshot 2026-04-03 at 10 42 10 PM" src="https://github.com/user-attachments/assets/f9d04b40-f294-409f-a08c-83821a43514a" />
 
-Query 5 helps management identify tournaments with a larger number of participating teams. This can be useful to them because more teams usually means more resources being allocated to them and more coordination and staffing needed to run the events. Management can use this information to plan venue spaces and streaming staff. Larger tournaments are more likely to be higher-value, so they would need more marketing campaigns and focus on sponsors. 
+Query 5 — This query allows the tournament management system to identify the highest scoring player in each tournament. This information can be used to recognize standout performers, create MVP awards, and promote top players to grow the tournament's audience and reputation.
+
+
 
 
 6.  Query 6 shows tournaments that have more than one sponsor. 
 
-Natural language question: Which tournament has more than one sponsor?
+Natural language question: “Which tournaments have more than 5 players registered and how many players do they have?”
 
-<img width="634" height="680" alt="image" src="https://github.com/user-attachments/assets/fc8cd525-e655-42e5-bf70-40b7ff6e7495" />
+<img width="540" height="354" alt="Screenshot 2026-04-03 at 10 43 04 PM" src="https://github.com/user-attachments/assets/96eec58f-38b2-45e2-bbb9-0f15d0329456" />
 
-Query 6 helps management identify tournaments that attract multiple sponsors, which is an indicator of the value of the event and success. This provides information like where resources should be prioritized. High-sponsored tournaments could justify increased investment in marketing and operations. Market attractiveness can be determined as well. Managers can see which tournaments are more appealing to sponsors, which means more audience reach and stronger brand exposure. 
+Query 6 — This query allows the tournament management system to determine which tournaments have the most players enrolled. This information can be used to assess tournament popularity, allocate resources appropriately, and identify which tournaments may need additional support or infrastructure.
+
+
 
 
 7. Query 7 shows sponsors whose sponsorship amount is greater than the average sponsorship amount.
 
-Natural language question: Which sponsors contribute more than the average sponsorship amount? 
+Natural language question: “Which matches were won by a team whose sponsor contributes above the average sponsorship amount?”
 
-<img width="827" height="605" alt="image" src="https://github.com/user-attachments/assets/868b7383-d200-44ae-86ce-0fe1c702f4fc" />
+<img width="540" height="354" alt="Screenshot 2026-04-03 at 10 44 06 PM" src="https://github.com/user-attachments/assets/ee99156a-7987-4909-80d4-1c29b76f841f" />
 
-Query 7 helps management identify sponsors who contribute above the average funding level, which is important in strategic decision-making. Knowing which sponsors are high value allows management to allocate more time and resources in maintaining that relationship. High-contributing sponsors may be offered exclusive benefits or long-term partnership opportunities. This also helps in revenue analysis, where it can help understand whether revenue is driven by a few major sponsors or many smaller ones. 
+Query 7 — This query allows the tournament management system to identify matches that were won by teams whose sponsors contribute above the average sponsorship amount. This information can be used to analyze whether higher sponsored teams tend to perform better, which could inform future sponsorship strategies and investment decisions.
+
+
 
 
 8. Query 8 finds the total prize money by game genre, but only for genres whose name starts with “R” or “N”.
 
-Natural language question: For game genres starting with “R” or “N”, how many tournaments are there, what is the total prize money, and what is the average prize pool amount?
+Natural language question: “Which sponsors are funding more than 3 tournaments and whose total contribution exceeds the average total contribution across all sponsors?”
 
-<img width="698" height="667" alt="image" src="https://github.com/user-attachments/assets/b181bb72-3977-4b28-a825-0dc9fa1eb1fe" />
+<img width="540" height="324" alt="Screenshot 2026-04-03 at 10 44 52 PM" src="https://github.com/user-attachments/assets/0f9ea0a9-9e3e-402e-a6b6-e1ecad6245b1" />
 
-Query 8 provides management with aggregated financial and participation information by game genre. This is valuable for market performance analysis, which helps identify which genres (Racing or RTS) are generating more tournaments and higher prize pools. By looking at total and average prize money, management can also determine which genres attract greater finance investment and allocate more time to those. 
+Query 8 — This query allows the tournament management system to identify which sponsors are funding multiple tournaments and contributing above the average total contribution across all sponsors. This information can be used to recognize the most committed sponsors and prioritize maintaining those relationships through exclusive benefits or partnership opportunities.
+
+
 
 
 9. Query 9 finds teams that have never participated in any tournament.
 
-Natural language question: Which teams have never participated in any tournament? 
+Natural language question: “Which players have scored above the overall average score in every single match they have played?”
 
-<img width="586" height="672" alt="image" src="https://github.com/user-attachments/assets/4a1e1aed-c9c1-4e07-a170-063dd82dab4b" />
+<img width="540" height="166" alt="Screenshot 2026-04-03 at 10 45 34 PM" src="https://github.com/user-attachments/assets/8c35abb3-fdaa-49db-8ed8-53b3e1c69cb5" />
 
-Query 9 helps management identify teams that are currently not involved in any tournaments, which may indicate inefficiencies in scheduling. Management can also reach out to inactive teams to encourage participation or figure out what barriers are preventing their involvement. Different teams participating could lead to more revenue as well, so teams that are inactive are missed opportunities. 
+Query 9 — This query allows the tournament management system to identify players who have consistently performed above the overall average score in every match they have played. This information can be used to recognize elite players, create performance-based rankings, and identify candidates for invitational or high-tier tournaments.
+
+
 
 
 10. Query 10 finds tournaments whose total prize pool is greater than the average total prize pool across all tournaments.
 
-Natural language question: Which tournaments have a total price pool that is greater than the average total prize pool across all tournaments?
+Natural language question: “What is each player’s performance level based on their score?”
 
-<img width="600" height="728" alt="image" src="https://github.com/user-attachments/assets/86a56cdf-e043-4c70-9507-558da57a202a" />
+<img width="540" height="357" alt="Screenshot 2026-04-03 at 10 46 13 PM" src="https://github.com/user-attachments/assets/29d01ce2-aa4d-406d-893d-74f8d143ea55" />
 
-Query 10 helps management identify high-value tournaments based on prize pool size relative to the overall average. This is important to strategic decision-making because it highlights tournaments that exceed average prize funding, indicating premium events. Management can use this information to determine which tournaments should be allocated more marketing, production quality, and operational resources. The average prize pool gives a benchmark to evaluate whether tournaments are underperforming or exceeding expectations. Higher prize pool tournaments are also more attractive to sponsors, making them ideal for premium sponsorship deals.
+Query 10 — This query allows the tournament management system to categorize each player's performance as High, Medium, or Low based on their match scores. This information can be used to quickly assess the overall skill distribution across all players and identify those who may need development support or those ready to compete at a higher level.
+
 
 ## Database Information
 Name of the database: ns_Sp26_71552_Group7
