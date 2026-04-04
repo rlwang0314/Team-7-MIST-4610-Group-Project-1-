@@ -90,7 +90,7 @@ Query 1 — This query allows the tournament management system to view all regis
 
 
 
-2. Query 2 shows sponsor names, the tournament they sponsor, and the donation amount for deals greater than $50,000.
+
 
 Natural language question: “Which teams have a sponsor and how much is their sponsorship worth?”
 
