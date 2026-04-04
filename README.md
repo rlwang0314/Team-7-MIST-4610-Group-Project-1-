@@ -40,7 +40,9 @@ Matches contains details of each match, including date, time, and status. Matche
 
 Because matches involve multiple teams and teams can play in multiple matches, there is a many-to-many relationship between Matches and Teams, connected by the associative table Matches_Teams, which also stores the team position in the match. 
 
-The Players table represents each individual player participating in the tournaments, including details like gamer tag, name, nationality, and role. Players can participate in multiple matches and matches must involve multiple players. This results in a many-to-many relationship between Players and Matches with Player_Stats as the associative table.  
+The Players table represents each individual player participating in the tournaments, including details like gamer tag, name, nationality, and role. Players can participate in multiple matches and matches must involve multiple players. This results in a many-to-many relationship between Players and Matches with Player_Stats as the associative table.
+
+The Team_Enrollment table displays the relationship between the teams and tournaments. Because a team is able to participate in many tournaments and each of the tournaments include multiple teams, it creates a many-to-many relationship between the entities. It is an associative table which connects a specific team to specific tournaments through their IDs.
 
 <img width="1097" height="766" alt="Screenshot 2026-04-03 at 11 24 01 PM" src="https://github.com/user-attachments/assets/901cd361-62d0-4603-98c2-e2a3dd77b146" />
 
