@@ -102,7 +102,7 @@ Query 2 — This query allows the tournament management system to identify which
 
 
 
-3. Query 3 shows all teams competing in NBA 2K Invitational.
+
 
 Natural Language Question: “What tournaments are upcoming and when and where are they being held?”
 
@@ -113,7 +113,7 @@ Query 3 — This query allows the tournament management system to view all upcom
 
 
 
-4. Query 4 gives an overview of all matches in a tournament. 
+
 
 Natural language question: “Which prize pool placements have a payout greater than 50000?”
 
@@ -124,7 +124,7 @@ Query 4 — This query allows the tournament management system to identify which
 
 
 
-5. Query 5 finds tournaments with more than three teams.
+
    
 Natural language question: “Who was the highest scoring player in each tournament?”
 
@@ -135,7 +135,7 @@ Query 5 — This query allows the tournament management system to identify the h
 
 
 
-6.  Query 6 shows tournaments that have more than one sponsor. 
+
 
 Natural language question: “Which tournaments have more than 5 players registered and how many players do they have?”
 
@@ -146,7 +146,7 @@ Query 6 — This query allows the tournament management system to determine whic
 
 
 
-7. Query 7 shows sponsors whose sponsorship amount is greater than the average sponsorship amount.
+
 
 Natural language question: “Which matches were won by a team whose sponsor contributes above the average sponsorship amount?”
 
@@ -157,7 +157,7 @@ Query 7 — This query allows the tournament management system to identify match
 
 
 
-8. Query 8 finds the total prize money by game genre, but only for genres whose name starts with “R” or “N”.
+
 
 Natural language question: “Which sponsors are funding more than 3 tournaments and whose total contribution exceeds the average total contribution across all sponsors?”
 
@@ -168,7 +168,7 @@ Query 8 — This query allows the tournament management system to identify which
 
 
 
-9. Query 9 finds teams that have never participated in any tournament.
+
 
 Natural language question: “Which players have scored above the overall average score in every single match they have played?”
 
@@ -179,7 +179,7 @@ Query 9 — This query allows the tournament management system to identify playe
 
 
 
-10. Query 10 finds tournaments whose total prize pool is greater than the average total prize pool across all tournaments.
+
 
 Natural language question: “What is each player’s performance level based on their score?”
 
