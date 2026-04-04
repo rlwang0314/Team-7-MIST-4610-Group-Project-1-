@@ -42,7 +42,8 @@ Because matches involve multiple teams and teams can play in multiple matches, t
 
 The Players table represents each individual player participating in the tournaments, including details like gamer tag, name, nationality, and role. Players can participate in multiple matches and matches must involve multiple players. This results in a many-to-many relationship between Players and Matches with Player_Stats as the associative table.  
 
-<img width="915" height="759" alt="image" src="https://github.com/user-attachments/assets/dce0a080-a2e1-4103-b49d-1195d36365c4" />
+<img width="1097" height="766" alt="Screenshot 2026-04-03 at 11 24 01 PM" src="https://github.com/user-attachments/assets/901cd361-62d0-4603-98c2-e2a3dd77b146" />
+
 
 
 ## Data Dictionary 
