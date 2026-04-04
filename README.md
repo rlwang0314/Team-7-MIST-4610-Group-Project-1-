@@ -175,7 +175,7 @@ Natural language question: “What is each player’s performance level based on
 
 <img width="540" height="357" alt="Screenshot 2026-04-03 at 10 46 13 PM" src="https://github.com/user-attachments/assets/29d01ce2-aa4d-406d-893d-74f8d143ea55" />
 
-Query 10 — This query allows the tournament management system to categorize each player's performance as High, Medium, or Low based on their match scores. This information can be used to quickly assess the overall skill distribution across all players and identify those who may need development support or those ready to compete at a higher level.
+Query 10 — This query allows the tournament management system to categorize each player's performance as High, Medium, or Low based on their match scores. This information can be used to quickly assess the overall skill distribution across all players and identify those who may need development support or those ready to compete at a higher level. From a managerial perspective, analyzing performance levels can lead to better decision-making. High-performing players can receive sponsorship offers or increased opportunities and exposure, which medium-level players may have potential to improve through additional coaching. Low-performing players can be placed in lower-tiers to ensure balanced matchups. The information given in this query can also be used to simplify large datasets into insights. Managers are able to quickly assess the overall distribution of skill levels within the player base. This is useful for tournament seeding, matchmaking, and designing fair competition brackets. 
 
 
 ## Database Information
